@@ -1,0 +1,2 @@
+Pour la base de données, je n'ai remarqué qu'à la fin que j'avais juste à de nombreux endroits mes codes pour ma base de données qui sont à modifier pour faire marcher pour le modifier simplement vous pouvez faire CTRL + MAJ + F et chercher 
+'$db = new Database("localhost","php2","root","welcome1");' que vous pouvez remplacer par vos accès à la base. Pour créer la base, cela se situe dans le dossier migration.
